@@ -10,4 +10,5 @@ MachiKania Phyllosoma BBの特徴<BR>
 ・手持ちの余った部品で作れるように形状が異なる部品に対応しています<BR>
 ・外部コントローラを取り付けることが出来ます<BR>
 ・フリーエリアを使って回路を追加することが出来ます<BR>
-![DSC00671](https://user-images.githubusercontent.com/62051355/194878509-47417a85-1de4-4471-9c02-cc746fa53c70.JPG)
+
+![DSC00818](https://user-images.githubusercontent.com/62051355/196197166-f961c888-8896-44f7-b400-dc49479100d0.JPG)
