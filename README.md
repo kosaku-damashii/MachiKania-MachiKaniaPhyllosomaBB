@@ -1,6 +1,8 @@
 # MachiKania-MachiKaniaPhyllosomaBB
 
-「MachiKania Phyllosoma BB」は、Katsumi（@kats_me）さん、 KenKenMkIISR（@KenKenMkIISR） さんのプロジェクトであるラズパイpico版MachiKania type P (開発コードPhyllosoma (フィロゾーマ))の暫定回路図をもとに作成した、開発用基板です。<BR>
+「
+MachiKania Phyllosoma BB 」は、Katsumi（ @kats_me ）さん、 KenKenMkIISR（ @KenKenMkIISR ）さんのプロジェクトである MachiKaniaのRaspberry Pi Pico 版
+「 MachiKania type P 」 の 回路図をもとに作成した開発用基板です。<BR>
 システムプログラムの書き込みや使い方については、KenKenMkIISRさんの下記のページを参照してください。<BR>
 
 I/O機器制御にも対応 Raspbery Pi PicoでBASICプログラミング「MachiKania type P」<BR>
