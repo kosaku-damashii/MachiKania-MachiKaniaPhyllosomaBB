@@ -11,8 +11,9 @@ http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html
 MachiKania Phyllosoma BBの特徴<BR>
 ・手持ちの余った部品で作れるように形状が異なる部品に対応しています<BR>
 ・外部コントローラを取り付けることが出来ます<BR>
+・GROVE 端子にUART 接続のセンサーなどを接続できます(I2C 接続も小改造で可能)<BR>
 ・フリーエリアを使って回路を追加することが出来ます<BR>
 ・音声出力は、内蔵スピーカーとオーディオ出力をスイッチで切り替えて聞くことが出来ます。<BR>
-・USBキーボード用端子が付いているので、キーボードの着脱時にRaspberry Pi Picoに負荷が掛かりません。<BR>
+・USB キーボード用端子が付いているので、キーボードの着脱時にRaspberry Pi Pico のUSB 端子に負荷が掛かりません。<BR>
 
 ![DSC01216](https://user-images.githubusercontent.com/62051355/230728463-8d4acd0d-2321-4353-bdf4-328413bc4a1e.JPG)
