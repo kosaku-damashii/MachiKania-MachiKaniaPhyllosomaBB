@@ -16,5 +16,4 @@ MachiKania Phyllosoma BBの特徴<BR>
 ・音声出力は、内蔵スピーカーとオーディオ出力をスイッチで切り替えて聞くことが出来ます。<BR>
 ・USB キーボード用端子が付いているので、キーボードの着脱時にRaspberry Pi Pico のUSB 端子に負荷が掛かりません。<BR>
 
-
-![DSC01292](https://github.com/kosaku-damashii/MachiKania-MachiKaniaPhyllosomaBB/assets/62051355/cc33bfab-899b-487c-838b-91d07bac73af)
+![DSC01619](https://github.com/kosaku-damashii/MachiKania-MachiKaniaPhyllosomaBB/assets/62051355/7d8c1570-3a1b-45d9-bed0-ff0d9d9452ad)
